@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.mocc.thread</groupId>
-    <artifactId>core</artifactId>
+    <artifactId>java-thread-learning-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>thread</name>
-    <description>Demo project for Spring Boot</description>
+    <name>java-thread-learning-example</name>
+    <description>java-thread-learning-example</description>
 
     <properties>
         <java.version>1.8</java.version>
