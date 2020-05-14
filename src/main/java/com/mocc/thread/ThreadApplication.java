@@ -1,4 +1,4 @@
-package com.mocc.thread.core;
+package com.mocc.thread;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
