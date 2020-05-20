@@ -1,9 +1,9 @@
-package com.mocc.thread.concurrentdemo.deadlock;
+package com.mocc.thread.concurrentdemo;
 
 /**
  * @author 杨洋
  * @ClassName SynchronizedReentrantTest.java
- * @Description
+ * @Description 证明synchronized是可重入的
  * @CreateTime 2020年05月19日 20:15:00
  */
 public class SynchronizedReentrantTest extends SuperSynchronizedReentrantTest {

@@ -5,7 +5,11 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * @author 杨洋
  * @ClassName ReentrantLockDemo.java
- * @Description
+ * @Description  ReentrantLock 特点：
+ *               1.可重入
+ *               2.可中断
+ *               3.可限时
+ *               4.公平锁
  * @CreateTime 2020年05月19日 19:38:00
  */
 public class ReentrantLockDemo implements Runnable {
