@@ -1,4 +1,4 @@
-package com.mocc.thread.concurrentdemo.deadlock;
+package com.mocc.thread.concurrentdemo;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
